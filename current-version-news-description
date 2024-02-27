@@ -1,7 +1,8 @@
-1.0.4 update dropped go download it from github!
+1.0.5 update dropped go download it from github!
 changelog:
-fixed save system
-options added!
-X button design change
-bugfixes :)
-thats all for today stay tuned for more stuff!
+fixed bug where too bad text doesnt dissapear causing discomfort
+layering
+added scores currently wip no highscores though
+added news works through dino mario news github repository
+some bug fixes :)
+version number in right down corner
